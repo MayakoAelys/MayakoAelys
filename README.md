@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img href="https://raw.githubusercontent.com/MayakoAelys/MayakoAelys/refs/heads/main/frieren-chibi.png">
+<img href="https://github.com/MayakoAelys/MayakoAelys/blob/b2cbcee150a63eccad97bb5fa8b60884399c804f/frieren-chibi.png">
 
 <p align="right">!()[https://raw.githubusercontent.com/MayakoAelys/MayakoAelys/refs/heads/main/frieren-chibi.png]</p>
 <p align="left">![](https://raw.githubusercontent.com/MayakoAelys/MayakoAelys/refs/heads/main/frieren-chibi.png)</p>
