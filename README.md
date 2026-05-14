@@ -1,16 +1,6 @@
-### Hi there 👋
-
-![](frieren-chibi.png)
-
 <div align="right">
     <img src="./frieren-chibi.png" />
 </div>
-
-<div align="right"><img src="./frieren-chibi.png" /></div>
-<p align="left">![](https://raw.githubusercontent.com/MayakoAelys/MayakoAelys/refs/heads/main/frieren-chibi.png)</p>
-![](https://raw.githubusercontent.com/MayakoAelys/MayakoAelys/refs/heads/main/frieren-chibi.png)
-
-!()[https://raw.githubusercontent.com/MayakoAelys/MayakoAelys/refs/heads/main/frieren-chibi.png]
 
 <!--
 **MayakoAelys/MayakoAelys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
