@@ -3,10 +3,10 @@
 ![](frieren-chibi.png)
 
 <div align="right">
-    ![](frieren-chibi.png)
+    <img src="./frieren-chibi.png" />
 </div>
 
-<div align="right"><img href="./frieren-chibi.png" /></div>
+<div align="right"><img src="./frieren-chibi.png" /></div>
 <p align="left">![](https://raw.githubusercontent.com/MayakoAelys/MayakoAelys/refs/heads/main/frieren-chibi.png)</p>
 ![](https://raw.githubusercontent.com/MayakoAelys/MayakoAelys/refs/heads/main/frieren-chibi.png)
 
