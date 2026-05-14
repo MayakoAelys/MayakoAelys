@@ -1,5 +1,5 @@
-<div align="right">
-    <img src="./frieren-chibi-2.png" />
+<div align="center">
+    <img src="./welcome.png" />
 </div>
 
 <!--
