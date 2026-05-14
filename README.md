@@ -1,4 +1,7 @@
-## Hi there 👋
+### Hi there 👋
+
+<p align="right">!()["frieren-chibi.png"]</p>
+<p align="left">![]("frieren-chibi.png")</p>
 
 <!--
 **MayakoAelys/MayakoAelys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
