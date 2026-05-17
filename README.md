@@ -36,8 +36,7 @@
 <br/>
 <p>If for any reason you have to contact me, check the pictures below :) I will only ask to, <strong>please</strong>, tell me why you contact me. Cf.: <a href="https://nohello.net/en/">https://nohello.net/en/</a>. It will make both of our day better <3</p>
 <br/>
-<img src="./discord.png" />
-<img src="./email.png" />
+<p><img src="./discord.png" />&nbsp;&nbsp;<img src="./email.png" /></p>
 
 
 <!--
