@@ -30,7 +30,7 @@
 </div>
 <p>If for any reason you have to contact me, check the pictures below :) I will only ask to, <strong>please</strong>, tell me why you contact me. Cf.: <a href="https://nohello.net/en/">https://nohello.net/en/</a>. It will make both of our day better <3</p>
 <br/>
-<a href=""><img src="./discord.png" />
+<img src="./discord.png" />
 <img src="./email.png" />
 
 
